@@ -1,3 +1,5 @@
+import sys
+sys.path.append(r'/Users/admin/Documents/GitHub/Python/ML')
 print('ML ex 2')
 import numpy as np
 import pandas as pd
