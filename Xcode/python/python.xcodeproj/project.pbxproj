@@ -6,10 +6,15 @@
 	objectVersion = 54;
 	objects = {
 
+/* Begin PBXFileReference section */
+		846F795A2616254B00DE58EA /* ml ex3_ru.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "ml ex3_ru.py"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		846F794F2616200700DE58EA = {
 			isa = PBXGroup;
 			children = (
+				846F795A2616254B00DE58EA /* ml ex3_ru.py */,
 			);
 			sourceTree = "<group>";
 			usesTabs = 0;
