@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		846F795A2616254B00DE58EA /* ml ex3_ru.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "ml ex3_ru.py"; sourceTree = "<group>"; };
+		846F795A2616254B00DE58EA /* ml.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = ml.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		846F794F2616200700DE58EA = {
 			isa = PBXGroup;
 			children = (
-				846F795A2616254B00DE58EA /* ml ex3_ru.py */,
+				846F795A2616254B00DE58EA /* ml.py */,
 			);
 			sourceTree = "<group>";
 			usesTabs = 0;
@@ -28,7 +28,8 @@
 			buildConfigurationList = 846F79572616200700DE58EA /* Build configuration list for PBXLegacyTarget "python" */;
 			buildPhases = (
 			);
-			buildToolPath = "/Applications/Xcode-beta.app/Contents/Developer/usr/bin/python3";
+			buildToolPath = /usr/local/bin/python3;
+			buildWorkingDirectory = "";
 			dependencies = (
 			);
 			name = python;
